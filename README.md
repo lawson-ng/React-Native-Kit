@@ -21,7 +21,7 @@ yarn android
 ## 📖 Docs
 - [Contributing](https://github.com/abraham-lawson/React-Native-Kit/blob/master/documentation/contributing.md)
 - [File structure](https://github.com/abraham-lawson/React-Native-Kit/blob/master/documentation/file-structure.md)
-- [Style Guide](https://github.com/abraham-lawson/React-Native-Kit/blob/master/documentation/style-guide.md)
+- [Style Guide](https://github.com/abraham-lawson/React_SG/blob/master/README.md)
 
 ## Tree
 ``` bash 
