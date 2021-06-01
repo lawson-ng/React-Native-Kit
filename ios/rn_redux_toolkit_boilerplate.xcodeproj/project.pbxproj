@@ -145,7 +145,6 @@
 				5AD896C698E9A7B99E6F09E1 /* Pods-rn_redux_toolkit_boilerplate-rn_redux_toolkit_boilerplateTests.debug.xcconfig */,
 				D54EE8AADEB58D0EE26C2746 /* Pods-rn_redux_toolkit_boilerplate-rn_redux_toolkit_boilerplateTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
