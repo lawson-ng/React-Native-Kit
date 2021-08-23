@@ -45,3 +45,6 @@ yarn android
     ├── screens
     └── utilities
 ````
+
+#Tool-tip
+- App icons: https://appicon.co/
